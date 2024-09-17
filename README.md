@@ -9,6 +9,9 @@ SPDX-License-Identifier: BSD-3-Clause
 [![Made by Ukrainian](https://img.shields.io/static/v1?label=Made%20by&message=Ukrainian&labelColor=1f5fb2&color=fad247&style=flat-square)](https://savelife.in.ua/en/donate-en/#donate-army-card-once)
 [![License](https://img.shields.io/github/license/GooRoo/obsidian-media?style=flat-square)](LICENSE)
 
+> [!WARNING]
+> Please, note that this plugin is developed for [**MkDocs**][mkdocs] and **is not** supposed to be used standalone because it adjusts the URLs for audio/video files the same way as MkDocs does for images. Maybe, I'll fix this in the future versions.
+
 This is an extension for [Python-Markdown][python-markdown] which allows you to embed **audio** or **video** files as easily as images by simply writing:
 
 ```markdown
